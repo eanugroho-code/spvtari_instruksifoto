@@ -1744,7 +1744,7 @@
             const encodedMessage = encodeURIComponent(message);
             
             // Buat URL WhatsApp
-            const whatsappUrl = `https://wa.me/6281383796300?text=${encodedMessage}`;
+            const whatsappUrl = `https://wa.me/6289501297336?text=${encodedMessage}`;
             
             // Buka WhatsApp di tab baru
             window.open(whatsappUrl, '_blank');
